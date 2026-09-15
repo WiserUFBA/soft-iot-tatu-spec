@@ -4,9 +4,15 @@ Canonical specification of the **TATU protocol** — a lightweight IoT protocol 
 
 This repository is the single source of truth for the protocol. All implementations must conform to it.
 
+## Contents
+
+- [PROTOCOL.md](PROTOCOL.md) — full protocol specification (v1.0)
+- [SENSOR-NAMING.md](SENSOR-NAMING.md) — camelCase sensor naming convention and taxonomy
+- [CHANGELOG.md](CHANGELOG.md) — version history
+
 ## Current version
 
-**v1.0** — see [PROTOCOL.md](PROTOCOL.md) for the full specification and [CHANGELOG.md](CHANGELOG.md) for version history.
+**v1.0** — stable.
 
 ## Implementations
 
